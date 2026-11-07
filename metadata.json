@@ -1,0 +1,6 @@
+{
+  "name": "QML-HealthTwin",
+  "description": "AI + Quantum Machine Learning for Early Identification of Disease Patterns from Biomedical Data",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
